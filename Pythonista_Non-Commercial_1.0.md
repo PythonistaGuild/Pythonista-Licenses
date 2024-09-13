@@ -1,6 +1,6 @@
 # Pythonista Non-Commercial License 1.0
 
-<...>
+<https://github.com/PythonistaGuild/Pythonista-Licenses/blob/main/Pythonista_Non-Commercial_1.0.md>
 
 ## Acceptance
 
