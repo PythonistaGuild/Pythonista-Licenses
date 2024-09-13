@@ -42,6 +42,7 @@ beginning with `Required Notice:` that the licensor provided
 with the software.  For example:
 
 > Required Notice: Copyright (c) YEARS NAME<EMAIL_OR_URL>
+> 
 > License: URL_TO_LICENSE_FILE
 
 ## Changes and New Works License
