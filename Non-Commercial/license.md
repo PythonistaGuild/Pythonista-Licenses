@@ -47,10 +47,6 @@ with the software.  For example:
 
 ## Changes and New Works License
 
-The licensor grants you an additional copyright license to
-make changes and new works based on the software for any
-permitted purpose.
-
 The licensor grants you an additional copyright license to 
 make changes and new works based on the software for any 
 permitted purpose, granted the source of the software 
